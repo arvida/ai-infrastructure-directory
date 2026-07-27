@@ -1,3 +1,10 @@
+<a href="https://infrabase.ai">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="logo-dark.png">
+    <img src="logo.png" alt="Infrabase" width="240">
+  </picture>
+</a>
+
 # AI Infrastructure Directory
 
 A directory of 231 AI infrastructure tools: inference APIs, vector databases, agent frameworks, observability, fine-tuning, audio, and more. Every entry is reviewed and maintained by hand.
@@ -8,14 +15,14 @@ Data from [infrabase.ai](https://infrabase.ai), where each tool has a detail pag
 
 ## Contents
 
-- [Agents](#agents) (33)
-- [Audio](#audio) (21)
-- [Fine-tuning](#fine-tuning) (21)
-- [Frameworks & Stacks](#frameworks--stacks) (32)
-- [Inference APIs](#inference-apis) (79)
-- [Observability & Analytics](#observability--analytics) (42)
-- [Prompt engineering](#prompt-engineering) (15)
-- [Vector databases](#vector-databases) (24)
+- [🕵️‍♀️ Agents](#agents) (33)
+- [🔊 Audio](#audio) (21)
+- [🧠 Fine-tuning](#fine-tuning) (21)
+- [🏗️ Frameworks & Stacks](#frameworks--stacks) (32)
+- [🤖 Inference APIs](#inference-apis) (79)
+- [📊 Observability & Analytics](#observability--analytics) (42)
+- [✍️ Prompt engineering](#prompt-engineering) (15)
+- [🗄️ Vector databases](#vector-databases) (24)
 - [EU-headquartered providers](#eu-headquartered-providers)
 
 ## Contributing
@@ -23,7 +30,7 @@ Data from [infrabase.ai](https://infrabase.ai), where each tool has a detail pag
 - **Add a tool:** submit it at [infrabase.ai/submit](https://infrabase.ai/submit), or open a PR against this README. PR contributions are folded into the source directory and this file is regenerated, so the entry ends up both here and on the site.
 - **Fix an error:** open a PR or an issue. Corrections land in the source data first, then here.
 
-## Agents
+## 🕵️‍♀️ Agents
 
 AI agents are LLM applications designed to perform tasks independently or alongside other AIs and humans. They range from simple functions like web searches to complex ones like building web applications and conducting research. Here you find frameworks for building agents, platforms for deploying and hosting them, and tools for orchestrating agent workflows. [Browse with filters on infrabase.ai](https://infrabase.ai/agents)
 
@@ -61,7 +68,7 @@ AI agents are LLM applications designed to perform tasks independently or alongs
 - [Stagehand](https://www.stagehand.dev) - AI-powered browser automation framework with natural language actions, extraction, and observation
 - [Superagent](https://superagent.sh/) - Prototype and deploy agents powered by large language models
 
-## Audio
+## 🔊 Audio
 
 Generative AI audio models create realistic text-to-speech voices and music, offering a human touch to applications and enabling accessibility, as well as enriching user experiences with audio interactions. [Browse with filters on infrabase.ai](https://infrabase.ai/audio)
 
@@ -87,7 +94,7 @@ Generative AI audio models create realistic text-to-speech voices and music, off
 - [Suno](https://www.suno.ai/) - Make a song with Suno
 - [VoxCPM](https://voxcpm.app/) - Tokenizer-free open-source text-to-speech with voice cloning across 30 languages
 
-## Fine-tuning
+## 🧠 Fine-tuning
 
 Fine-tuning AI models involves adjusting the parameters of a pre-trained model to perform better on a specific task or dataset. This process allows the model to adapt its learned knowledge to new, related problems, enhancing its accuracy and effectiveness for specialized applications. [Browse with filters on infrabase.ai](https://infrabase.ai/fine-tuning)
 
@@ -113,7 +120,7 @@ Fine-tuning AI models involves adjusting the parameters of a pre-trained model t
 - [TRL](https://huggingface.co/docs/trl) - Hugging Face library for training language models with RLHF, SFT, and DPO
 - [Unsloth](https://unsloth.ai) - Fine-tune LLMs up to 30x faster with 90% less memory usage
 
-## Frameworks & Stacks
+## 🏗️ Frameworks & Stacks
 
 The tools and frameworks providing the foundation for AI development offer practical solutions for constructing and deploying AI applications. They facilitate the use of collective research, knowledge, and experience in the field of AI solution development. [Browse with filters on infrabase.ai](https://infrabase.ai/frameworks-stacks)
 
@@ -150,7 +157,7 @@ The tools and frameworks providing the foundation for AI development offer pract
 - [Vercel AI SDK](https://ai-sdk.dev) - Open-source TypeScript toolkit for building AI applications with streaming, tool calling, and agents
 - [vLLM](https://vllm.ai) - High-throughput LLM inference engine with PagedAttention for efficient GPU memory usage
 
-## Inference APIs
+## 🤖 Inference APIs
 
 APIs and runtimes for AI models, especially LLMs, enable powerful text generation and processing in apps. They serve as the foundation for many AI solutions and allow easy integration, making advanced AI accessible for developers. [Browse with filters on infrabase.ai](https://infrabase.ai/inference-apis)
 
@@ -234,7 +241,7 @@ APIs and runtimes for AI models, especially LLMs, enable powerful text generatio
 - [Voyage AI](https://www.voyageai.com/) - Embedding and reranker models for RAG retrieval quality, from MongoDB
 - [WAYSCloud](https://wayscloud.no) - Norwegian cloud platform with an LLM inference API running open-weight models in Norway
 
-## Observability & Analytics
+## 📊 Observability & Analytics
 
 Specialized DevOps tools tailored for optimizing LLMs: from tuning parameters to enhance task-specific performance to analytics for monitoring and refining LLM applications. [Browse with filters on infrabase.ai](https://infrabase.ai/observability-analytics)
 
@@ -281,7 +288,7 @@ Specialized DevOps tools tailored for optimizing LLMs: from tuning parameters to
 - [Vercel AI Gateway](https://vercel.com/ai-gateway) - Unified API for hundreds of AI models, with built-in rate limiting and key management
 - [Weights & Biases](https://wandb.ai) - ML experiment tracking, LLM observability, and evaluation platform for AI teams
 
-## Prompt engineering
+## ✍️ Prompt engineering
 
 Prompt engineering is the skill of designing inputs that steer large language models (LLMs) toward generating targeted behaviors and outputs. It is a foundation skill for developers creating AI applications using many of the current AI systems. These services enhance prompt development, maintenance and generation. [Browse with filters on infrabase.ai](https://infrabase.ai/prompt-engineering)
 
@@ -301,7 +308,7 @@ Prompt engineering is the skill of designing inputs that steer large language mo
 - [Prompty](https://www.prompty.tools/) - Structured prompt builder that treats prompts like code, with versioning and a reusable building-block library
 - [Superagent](https://superagent.sh/) - Prototype and deploy agents powered by large language models
 
-## Vector databases
+## 🗄️ Vector databases
 
 A vector database stores data as mathematical vectors, enabling efficient similarity searches for AI-driven applications like search engines, recommendation systems, and Retrieval-Augmented Generation (RAG). This makes it easier for developers to integrate advanced AI functionalities into their applications with ability to search and understand relationships within data. [Browse with filters on infrabase.ai](https://infrabase.ai/vector-databases)
 
