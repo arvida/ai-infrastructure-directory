@@ -55,6 +55,7 @@ AI agents are LLM applications designed to perform tasks independently or alongs
 - [FalsifyLab](https://falsifylab.com/) - MCP server giving AI agents live financial and on-chain data tools
 - [Fixie](https://www.fixie.ai/) - The fastest way to build conversational AI agents
 - [Google ADK](https://google.github.io/adk-docs/) - Open-source agent development kit from Google for building multi-agent systems
+- [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) - Developer-alpha encrypted, append-only knowledge store with a Rust CLI, MCP access through scoped expiring grants, and device sync
 - [Laminar](https://laminar.sh) - Open-source agent observability with traces, failure detection and evals
 - [Langdock](https://www.langdock.com) - GDPR-compliant enterprise AI platform with multi-LLM access and agents
 - [LangGraph](https://www.langchain.com/langgraph) - Low-level framework for building stateful, long-running AI agents with graph-based orchestration
