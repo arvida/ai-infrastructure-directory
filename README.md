@@ -81,6 +81,7 @@ AI agents are LLM applications designed to perform tasks independently or alongs
 - [Smolagents](https://huggingface.co/docs/smolagents) - Lightweight Python agent framework from Hugging Face where agents write Python code instead of JSON tool calls
 - [Stagehand](https://www.stagehand.dev) - AI-powered browser automation framework with natural language actions, extraction, and observation
 - [Superagent](https://superagent.sh/) - Prototype and deploy agents powered by large language models
+- [Tale](https://tale.dev) - Open-source workspace for teams and AI agents, with task delegation, persistent sandboxes, and deliverable review
 - [Tura](https://turaai.net/) - Open-source local coding agent that turns intent into verified repository changes
 
 ## 🔊 Audio
