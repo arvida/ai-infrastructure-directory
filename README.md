@@ -65,6 +65,7 @@ AI agents are LLM applications designed to perform tasks independently or alongs
 - [Mastra](https://mastra.ai) - TypeScript-first AI framework for building agents, RAG pipelines, and workflows
 - [Microsoft Agent Framework](https://learn.microsoft.com/en-us/agent-framework/) - Build agents and graph-based multi-agent workflows in .NET and Python
 - [n8n](https://n8n.io) - AI workflow automation with 400+ integrations and native AI agents
+- [Open Agent API](https://openagentapi.pages.dev/) - Self-hosted gateway that exposes local coding agents through SDK-compatible APIs with scoped keys and operator approvals
 - [OpenAI Agents SDK](https://openai.github.io/openai-agents-python/) - Official OpenAI framework for building production AI agents with tool use and guardrails
 - [Openspender](https://openspender.com) - Payment router for AI agents: pay per request across LLM APIs and tools from a self-custodial wallet
 - [past.dev](https://past.dev) - Context and memory API that captures work history and serves it back to agents over REST and MCP
